@@ -1,0 +1,7 @@
+{
+  "name": "demo-shop",
+  "version": "1.0.0",
+  "description": "Demo storefront for testing the Greenlight PR gate",
+  "main": "server.js",
+  "dependencies": { "express": "^4.19.0", "cors": "^2.8.5" }
+}
